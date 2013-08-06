@@ -1,19 +1,6 @@
-#Simple parse for Java Properties
+# Properties
 
-#
-
-
-# Alipay
-
-A simple alipay ruby gem, without unnecessary magic or wraper, it's directly facing how alipay api works.
-
-It contain this API:
-
-* Generate payment url
-* Send goods
-* Verify notify
-
-Please read alipay official document first: https://b.alipay.com/order/techService.htm .
+Simple parse for Java Properties
 
 ## Installation
 
