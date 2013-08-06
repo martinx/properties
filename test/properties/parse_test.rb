@@ -37,6 +37,6 @@ class Properties::ParseTest < Test::Unit::TestCase
   end
   
   def test_values
-    
+    values =  Properties::Parse.values
   end
 end
